@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .clock-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background: #fff;
+    display: inline-block;
+  }
+  
+  #clock {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    margin-top: 10px;
+  }
+  
+  label, input, button {
+    margin: 5px;
+  }
+  
+  #alerts {
+    margin-top: 20px;
+    font-size: 18px;
+    color: red;
+  }
+  
